@@ -37,10 +37,10 @@ El objetivo final de este estudio e implementación es minimizar las posibles p�
 > https://github.com/alfman99/CreatorDesktop
 
 ## Memoria
-> pendiente...
+> [PDF Memoria](https://upcommons.upc.edu/bitstream/handle/2117/393574/memoria%20tfg%20alfredo%20manresa%20martinez.pdf)
 
-## Articulo resumen
-> pendiente...
+## Artículo resumen
+> [PDF Artículo Resumen](https://upcommons.upc.edu/bitstream/handle/2117/393574/resumen%20tfg%20alfredo%20manresa%20martinez.pdf)
 
 ## Nota final
 > 9.5
